@@ -43,29 +43,6 @@ CONFIG
 
 ## Usage
 
-get config
-```info
-url/api/conf/get
-
-```
-
-set config 
-```
-url/api/conf/post?broker=x.x.x.x&brkport=1884&topic=xxxxx
-
-```
-
-
-reset
-```
-url/api/reset
-```
-
-Sample
-```
-test
-```
-
 ## Current status
 
 Done  work:
