@@ -1,6 +1,6 @@
-# MicroPython Web Project
+# MicroPython mrf522 Project
 
-MicroWeb Project is tiny web control 
+push mrf522 data to server
 
 ## Show
 ![image](https://)
