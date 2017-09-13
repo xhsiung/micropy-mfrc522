@@ -1,6 +1,6 @@
-# MicroPython mrf522 Project
+# MicroPython mfrc522 Project
 
-push mrf522 data to server
+push mfrc522 data to server
 
 ## Show
 ![image](https://)
@@ -9,9 +9,9 @@ push mrf522 data to server
 ```install
 $sudo pip install esptool
 $sudo pip install adafruit-ampy
-$wget https://github.com/xhsiung/microweb/blob/master/esp8266-custom-0.0.1.bin
+$wget https://github.com/xhsiung/microweb/blob/master/esp8266-mfrc522-0.0.1.bin
 $esptool.py --port /dev/ttyUSB0 erase_flash
-$esptool.py --port /dev/ttyUSB0 --baud 115200 write_flash --flash_size=detect -fm dio 0 esp8266-mrf522-0.0.1.bin
+$esptool.py --port /dev/ttyUSB0 --baud 115200 write_flash --flash_size=detect -fm dio 0 esp8266-mfrc522-0.0.1.bin
 
 ```
 
@@ -46,7 +46,7 @@ CONFIG
 ## Current status
 
 Done  work:
-* scan mrf522
+* scan mfrc522
 * request server
 
 ## History
