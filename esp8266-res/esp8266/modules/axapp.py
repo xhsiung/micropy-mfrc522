@@ -9,7 +9,7 @@ CONFIG ={
     "gateway":"",
     "dns":"",
 
-    "broker":"wechat.ebais.com.tw",
+    "broker":"",
     "brkport": 1883,
     "brkuser":"",
     "brkpasswd":"",

@@ -9,7 +9,7 @@ CONFIG ={
     "gateway":"",
     "dns":"",
 
-    "broker":"wechat.ebais.com.tw",
+    "broker":"",
     "brkport": 1883,
     "brkuser":"",
     "brkpasswd":"",
@@ -23,7 +23,7 @@ CONFIG ={
     "apssid":"ESPAX",
     "appasswd":"12345678",
     "stassid":"a72016",
-    "stapasswd":"tT122800618",
+    "stapasswd":"",
     "ticktime": 500
 }
 
